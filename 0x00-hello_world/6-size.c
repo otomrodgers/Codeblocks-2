@@ -16,11 +16,11 @@ int main(void)
 	float e;
 
 
-	printf("Size of char: %ulu byte(s)\n, sizeof(a));
-	printf("Size of int: %ulu byte(s)\n, sizeof(b));
-	printf("Size of long: %ulu byte(s)\n, sizeof(a));
-	printf("Size of long long: %ulu byte(s)\n, sizeof(d));
-	printf("Size of float: %ulu byte(s)\n, sizeof(e));
+	printf("Size of char: %ulu byte(s)\n", sizeof(a));
+	printf("Size of int: %ulu byte(s)\n", sizeof(b));
+	printf("Size of long: %ulu byte(s)\n", sizeof(a));
+	printf("Size of long long: %ulu byte(s)\n", sizeof(d));
+	printf("Size of float: %ulu byte(s)\n", sizeof(e));
 
 	return (0);
 }
