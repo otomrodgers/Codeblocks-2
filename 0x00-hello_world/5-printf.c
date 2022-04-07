@@ -3,7 +3,9 @@
 /*
  * main - the main function
  * outcome is a piece of art
- * Return 0 if success
+ *
+ * Description : Main is a function that accepts no input
+ * Return: 0 if success
  */
 int main(void)
 {
