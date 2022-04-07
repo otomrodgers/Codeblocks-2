@@ -1,10 +1,8 @@
 #include <stdio.h>
 
 /**
- *init: project initialization
- *Main: main function
- *Description: This program prints sizes of
- *Different datat types
+ * main - print to standard output
+ * Return: 0 if exited, compiled without error
  */
 
 int main(void)
@@ -20,6 +18,8 @@ int main(void)
 	printf("Size of long: %ulu byte(s)\n", sizeof(a));
 	printf("Size of long long: %ulu byte(s)\n", sizeof(d));
 	printf("Size of float: %ulu byte(s)\n", sizeof(e));
+
+
 	return (0);
 }
 
