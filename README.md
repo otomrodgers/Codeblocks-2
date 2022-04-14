@@ -1,1 +1,1 @@
-This directory contains scripts and programs for debugging
+Alx Low Level programming directories
